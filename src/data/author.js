@@ -38,12 +38,12 @@ const authors = [
     role: "Backend Developer",
     image: "/authors/eunice.png",
     about:
-      "Desarrollador Full Stack con experiencia en aplicaciones web y móviles. Apasionado por React, Flutter y la Inteligencia Artificial.",
+      "Desarrollador Full Stack con experiencia en aplicaciones web y móviles. Apasionado por Kotlin, Flutter y la Inteligencia Artificial.",
 
     contact: {
-      phone: "6430-4967",
-      email: "cristianparadalopez@gmail.com",
-      github: "https://github.com/CristianParadaLopez"
+      phone: "7325-0614",
+      email: "eu.martinez.127@gmail.com",
+      github: "https://github.com/EuniceMartinez"
     },
 
     skills: {
@@ -54,13 +54,13 @@ const authors = [
 
     projects: [
       {
-        title: "Sistema Web Escolar",
-        image: "/projects/proyecto1.png",
+        title: "SportHub",
+        image: "/projects/proyecto9.png",
         link: "#"
       },
       {
-        title: "App Gestión de Tareas",
-        image: "/projects/proyecto2.png",
+        title: "VidaSana",
+        image: "/projects/proyecto10.png",
         link: "#"
       }
     ]
